@@ -1,0 +1,24 @@
+{
+  "name": "14-mongo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sindy771/proyecto-cafe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sindy771/proyecto-cafe/issues"
+  },
+  "homepage": "https://github.com/Sindy771/proyecto-cafe#readme"
+}
