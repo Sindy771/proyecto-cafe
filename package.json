@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+   "express": "^4.17.1"
+
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/Sindy771/proyecto-cafe.git"
   },
-  "author": "",
+  "author": "sindy milena salamanca",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sindy771/proyecto-cafe/issues"

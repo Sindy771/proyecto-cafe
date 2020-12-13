@@ -32,6 +32,7 @@ app.put('/usuario/:id',function(req,res){
   res.json(`delete usuario id ${id}`);
 });
 
+console.log(process.env.PORT)
 app.listen(process.env.PORT,()=>{
   console.log(`Servidor escuchando el puerto 3000 ${process.env.PORT}`);
 })
